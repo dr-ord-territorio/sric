@@ -10,8 +10,8 @@ Este manual oferece instruções detalhadas para técnicos habilitados utilizare
   - [Conservação de Cadastro Predial](instrucoes/conservacao_de_cadastro_predial.md)
   - [Execução Simples](instrucoes/execucao_simples.md)
 - Funcionalidades
-  - [Geoportal Interno](funcionalidades/geoportal_interno.md)
-  - [Mensagens](funcionalidades/mensagens.md)
+  - [Geoportal Interno](geoportal_interno.md)
+  - [Mensagens](mensagens.md)
 
 ## Como Navegar
 Clique nos links acima para acessar as seções correspondentes.
