@@ -3,7 +3,7 @@
 Este repositório contém o manual técnico para utilização da plataforma SRIC. O manual é modular e dividido por temas para facilitar a navegação.
 
 ## Sumário
-- [Introdução](introducao.md)
+- [Introdução](Manual_SRIC/introducao.md)
 - [Autenticação](autenticacao.md)
 - [Página Inicial](pagina-inicial.md)
 - Instruções
