@@ -1,17 +1,17 @@
 # Manual Técnico da Plataforma SRIC
 
-Este repositório contém o manual técnico para utilização da plataforma SRIC. O manual é modular e dividido por temas para facilitar a navegação.
+Este manual oferece instruções detalhadas para técnicos habilitados utilizarem a plataforma SRIC.
 
 ## Sumário
 - [Introdução](introducao.md)
 - [Autenticação](autenticacao.md)
-- [Página Inicial](pagina-inicial.md)
+- [Página Inicial](pagina_inicial.md)
 - Instruções
-  - [Conservação de Cadastro Predial](instrucoes/conservacao.md)
-  - [Execução Simples](instrucoes/execucao-simples.md)
+  - [Conservação de Cadastro Predial](instrucoes/conservacao_de_cadastro_predial.md)
+  - [Execução Simples](instrucoes/execucao_simples.md)
 - Funcionalidades
-  - [Geoportal Interno](funcionalidades/geoportal.md)
+  - [Geoportal Interno](funcionalidades/geoportal_interno.md)
   - [Mensagens](funcionalidades/mensagens.md)
 
-## Como contribuir
-Para contribuir com este repositório, envie uma Pull Request ou abra uma Issue.
+## Como Navegar
+Clique nos links acima para acessar as seções correspondentes.
