@@ -10,5 +10,5 @@ Este repositório contém o manual técnico para utilização da plataforma SRIC
   - [Conservação de Cadastro Predial](Manual_SRIC/instrucoes/conservacao.md)
   - [Execução Simples](Manual_SRIC/instrucoes/execucao-simples.md)
 - Funcionalidades
-  - [Geoportal Interno](Manual_SRIC/funcionalidades/geoportal.md)
+  - [Geoportal Interno](Manual_SRIC/Funcionalidades/geoportal.md)
   - [Mensagens](Manual_SRIC/funcionalidades/mensagens.md)
