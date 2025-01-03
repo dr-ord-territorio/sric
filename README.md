@@ -12,6 +12,3 @@ Este repositório contém o manual técnico para utilização da plataforma SRIC
 - Funcionalidades
   - [Geoportal Interno](funcionalidades/geoportal.md)
   - [Mensagens](funcionalidades/mensagens.md)
-
-## Como contribuir
-Para contribuir com este repositório, envie uma Pull Request ou abra uma Issue.
