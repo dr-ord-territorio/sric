@@ -11,7 +11,7 @@ Este manual oferece instruções detalhadas para técnicos habilitados utilizare
   - [Execução Simples](instrucoes/execucao_simples.md)
 - Funcionalidades
   - [Geoportal Interno](Funcionalidades/geoportal.md)
-  - [Mensagens](funcionalidades/mensagens.md)
+  - [Mensagens](Funcionalidades/mensagens.md)
 
 ## Como Navegar
 Clique nos links acima para acessar as seções correspondentes.
